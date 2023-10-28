@@ -12,4 +12,5 @@ In the forthcoming year, budget constraints demand a more resourceful approach. 
 
 **Vision**
 
-
+The Sales and marekting department will recieve dashboards with a refresh rate of 15 days highlighting the top percentage of customers who are contributing to 50% or more of Revenues.
+An RFM score will be applied to each customer. Based on the score values, the customers will be categorised into following categories - VIP, Active, Dormant, and Lost customers.
