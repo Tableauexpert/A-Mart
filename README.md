@@ -15,3 +15,4 @@ In the forthcoming year, budget constraints demand a more resourceful approach. 
 The Sales and Marketing department will be provided with dashboards that refresh every 15 days. These dashboards will focus on identifying the top percentage of customers responsible for contributing 50% or more of the total revenue.
 
 A customer segmentation approach using RFM scores will be implemented, classifying customers into the following categories: VIP, Active, Dormant, and Lost customers.
+A Customer LTV will be calculated for each customer.
