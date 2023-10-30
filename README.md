@@ -45,4 +45,4 @@ These two tables are intrinsically linked through the unique Customer ID, provid
 
 
 In this crucial stage, the data undergoes meticulous processing through SQL to detect and rectify any anomalies or discrepancies within the dataset. The SQL file utilized for executing these data transformations can be accessed via the following link:
-   
+   `#ffffff`
