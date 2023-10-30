@@ -43,5 +43,12 @@ These two tables are intrinsically linked through the unique Customer ID, provid
 
  ## 3.Data Preprocessing:
 
-
 In this crucial stage, the data undergoes meticulous processing through SQL to detect and rectify any anomalies or discrepancies within the dataset. The SQL file utilized for executing these data transformations can be accessed via the following link:
+
+## 4. Data Analysis
+
+In this stage, we will be conducting an Exploratory Analysis of the data using python. This step will provide insights and context for more complex visualisations in Tableau.
+Here is a link to the jupyer notebook used for conducting this anlaysis.
+
+## 5. Findings, Insights and  Recommendations
+
