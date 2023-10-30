@@ -20,7 +20,7 @@ In the forthcoming year, budget constraints demand a more resourceful approach. 
 
 **Vision**
 
-The Sales and Marketing department suggested to implement the RFM(Recency, Frequency, Monetary) Model.
+The CXO suggested to implement the RFM(Recency, Frequency, Monetary) Model.
 Recency (R): When was the user’s most recent transaction?
 Frequency (F): How often does the customer transact?
 Monetary (M): What is the size of the user’s transaction?
