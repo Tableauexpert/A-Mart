@@ -20,7 +20,11 @@ In the forthcoming year, budget constraints demand a more resourceful approach. 
 
 **Vision**
 
-The Sales and Marketing department will receive dynamic dashboards that update every 15 days. These dashboards are designed to pinpoint the top-tier customers responsible for contributing 50% or more of the total revenue. Furthermore, they provide valuable insights by segmenting customers based on their RFM Scores and showcasing Customer Lifetime Value (LTV).
+The Sales and Marketing department suggested to implement the RFM(Recency, Frequency, Monetary) Model.
+Recency (R): When was the user’s most recent transaction?
+Frequency (F): How often does the customer transact?
+Monetary (M): What is the size of the user’s transaction?
+Stakeholders will receive dynamic dashboards that update every 15 days. These dashboards are designed to pinpoint the top-tier customers responsible for contributing 50% or more of the total revenue. Furthermore, they provide valuable insights by segmenting customers based on their RFM Scores and showcasing Customer Lifetime Value (LTV). 
 
 **Mockup**
 1. Proactive Customer Engagement:
