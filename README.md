@@ -41,7 +41,7 @@ Sales_t:
 Sales Records Database which stores comprehensive sales data, encompassing total orders, revenue metrics, first and last order dates, revenue and orders analyzed by week, day, and time. All data is categorized by customer, offering a rich overview of customer transaction history.
 These two tables are intrinsically linked through the unique Customer ID, providing a structured foundation for comprehensive data analysis and customer relationship management.
 
- ## <span style="background-color: red;"> 3.Data Preprocessing:</span>
+ ## <span style="background-color: yellow;"> 3.Data Preprocessing:</span>
 
 
 In this crucial stage, the data undergoes meticulous processing through SQL to detect and rectify any anomalies or discrepancies within the dataset. The SQL file utilized for executing these data transformations can be accessed via the following link:
