@@ -1,4 +1,4 @@
-# A-kart
+# A-Mart
 This document covers the workflow including the following :
 1. Project Scoping (based on first discussion with the stakeholders, it is likely to enhance based on findings)
 2. Data collection
@@ -10,7 +10,7 @@ This document covers the workflow including the following :
 ## 1.Project Scope:
 **Business Context**
 
-A-Kart, a renowned e-commerce platform, offers a diverse range of products. To drive revenue growth in the upcoming fiscal year, the Sales and Marketing department has set an objective: 
+A-Mart, a renowned e-commerce platform, offers a diverse range of products. To drive revenue growth in the upcoming fiscal year, the Sales and Marketing department has set an objective: 
 enhancing revenues by targeting existing customers through precision marketing. The ultimate decision regarding this strategy rests with the Vice President of Sales
 
 **GAP Analysis**
