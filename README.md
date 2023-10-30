@@ -20,12 +20,29 @@ In the forthcoming year, budget constraints demand a more resourceful approach. 
 
 **Vision**
 
-The Sales and Marketing department will be provided with dashboards that refresh every 15 days. These dashboards will focus on identifying the top percentage of customers responsible for contributing 50% or more of the total revenue, segmenting customers based on their RFM Scores, show Customer LTV.
+The Sales and Marketing department will receive dynamic dashboards that update every 15 days. These dashboards are designed to pinpoint the top-tier customers responsible for contributing 50% or more of the total revenue. Furthermore, they provide valuable insights by segmenting customers based on their RFM Scores and showcasing Customer Lifetime Value (LTV).
 
 **Mockup**
+1. Proactive Customer Engagement:
+Personalized product recommendations in popular categories based on RFM Scores.
+Timely notifications ensure customers discover products tailored to their preferences.
 
-1. Notifications are sent to customers for product recommendations in popular product categories based on their RFM Scores.
-2. Personalised discounts are offered based on customer Lifetime Value and purchasing pattern
+2. Tailored Savings:
+Precision-based discounts, meticulously calculated from Customer Lifetime Value and purchasing patterns.
+Customers receive exclusive offers that resonate with their shopping history.
 
 ## 2.Data Collection:
+Our data is currently housed within a robust MySQL database, leveraging the following core tables:
 
+Customer_t:
+Primary Repository of Customer Information, it contains customer particulars, including names, addresses, emails, occupations, and dates of birth.
+
+Sales_t:
+Sales Records Database which stores comprehensive sales data, encompassing total orders, revenue metrics, first and last order dates, revenue and orders analyzed by week, day, and time. All data is categorized by customer, offering a rich overview of customer transaction history.
+These two tables are intrinsically linked through the unique Customer ID, providing a structured foundation for comprehensive data analysis and customer relationship management.
+
+ ## <span style="background-color: red;"> 3.Data Preprocessing:</span>
+
+
+In this crucial stage, the data undergoes meticulous processing through SQL to detect and rectify any anomalies or discrepancies within the dataset. The SQL file utilized for executing these data transformations can be accessed via the following link:
+   
