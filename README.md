@@ -56,5 +56,7 @@ After running the last query in the above SQL file, we will get the desired data
 In this stage, we will be conducting an Exploratory Analysis of the data using python. This step will provide insights and context for more complex visualisations in Tableau.
 Here is a link to the [jupyer notebook](https://github.com/Tableauexpert/A-Mart/blob/main/Exploratory_Data_Analysis_A-Mart.ipynb) used for conducting this anlaysis.
 
+To view the Tableau Dashboard - [Click Here]
+
 ## 5. Findings, Insights and  Recommendations
 
