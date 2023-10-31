@@ -47,14 +47,14 @@ These two tables are intrinsically linked through the unique Customer ID, provid
 
  ## 3.Data Preprocessing:
 
-In this crucial stage, the data undergoes meticulous processing through SQL to detect and rectify any anomalies or discrepancies within the dataset. The SQL file utilized for executing these data transformations can be accessed via [this link](https://github.com/Tableauexpert/A-Mart/blob/main/preprocess.sql)
+The company uses MySQL database for storing records. In this crucial stage, the data undergoes meticulous processing through SQL to detect and rectify any anomalies or discrepancies within the dataset. The SQL file utilized for executing these data transformations can be accessed via [this link](https://github.com/Tableauexpert/A-Mart/blob/main/preprocess.sql)
 
 After running the last query in the above SQL file, we will get the desired data , which we will use for conducting analysis and presenting dashboards in the steps ahead. For this purpose we will save the output of the final query and export it as a CSV file.
 
 ## 4. Data Analysis
 
 In this stage, we will be conducting an Exploratory Analysis of the data using python. This step will provide insights and context for more complex visualisations in Tableau.
-Here is a link to the jupyer notebook used for conducting this anlaysis.
+Here is a link to the [jupyer notebook](https://github.com/Tableauexpert/A-Mart/blob/main/Exploratory_Data_Analysis_A-Mart.ipynb) used for conducting this anlaysis.
 
 ## 5. Findings, Insights and  Recommendations
 
