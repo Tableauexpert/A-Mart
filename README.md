@@ -4,7 +4,7 @@ This document covers the workflow including the following :
 2. Data collection
 3. Data Preprocessing
 4. Data Analysis
-5. Findings, Insights and Recommendations
+5. Findings and Insights
 6. Dashboarding
 
 ## 1.Project Scope:
@@ -24,7 +24,7 @@ The CXO suggested to implement the RFM(Recency, Frequency, Monetary) Model.
 Recency (R): When was the user’s most recent transaction?
 Frequency (F): How often does the customer transact?
 Monetary (M): What is the size of the user’s transaction?
-Stakeholders will receive dynamic dashboards that update every 15 days. These dashboards are designed to pinpoint the top-tier customers responsible for contributing 50% or more of the total revenue. Furthermore, they provide valuable insights by segmenting customers based on their RFM Scores and showcasing Customer Lifetime Value (LTV). 
+Stakeholders will receive dynamic dashboards that update every 15 days. These dashboards are designed to pinpoint the top-tier customers responsible for contributing 50% or more of the total revenue. Furthermore, they will provide valuable insights by segmenting customers based on their RFM Scores and showcasing Customer Lifetime Value (LTV) in later versions.
 
 **Mockup**
 1. Proactive Customer Engagement:
@@ -57,6 +57,18 @@ In this stage, we will be conducting an Exploratory Analysis of the data using p
 Here is a link to the [jupyer notebook]() used for conducting this anlaysis.
 
 To view the Tableau Dashboard - [Click Here](https://public.tableau.com/app/profile/mansi.vermani1783/viz/E-Kart_Customer_Metric_16992262969920/CustomerMetricOverview)
+Note: This is only first iteration of the dashboard.
 
-## 5. Findings, Insights and  Recommendations
+## 5. Findings and Insights
+
+Following observations are made from the above analysis:
+
+1. only 18 % customers are active i.e who have made purchase in the last 14 days
+2. 53% cutomers are inactive i.e. who have not made any purchase in last 56 days or more
+3. Avg value of an order is USD 136
+4. 55 % of revenue comes from customers that belong to medium order bucket, 40 % revenue comes from low order bucket customers
+5. A major chunk of customers have made purchases in a gap of 56 + days.
+   
+The company must target only these two segments of customers (medium and low order bucket) 
+It should also target inactive customers.
 
