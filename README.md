@@ -1,11 +1,10 @@
 # A-Mart
 This document covers the workflow including the following :
 1. Project Scoping (based on first discussion with the stakeholders, it is likely to enhance based on findings)
-2. Data collection
+2. Data Collection
 3. Data Preprocessing
 4. Data Analysis
 5. Findings and Insights
-6. Dashboarding
 
 ## 1.Project Scope:
 **Business Context**
@@ -54,10 +53,10 @@ After running the last query in the above SQL file, we will get the desired data
 ## 4. Data Analysis
 
 In this stage, we will be conducting an Exploratory Analysis of the data using python. This step will provide insights and context for more complex visualisations in Tableau.
-Here is a link to the [jupyer notebook]() used for conducting this anlaysis.
+Here is a link to the [jupyer notebook](https://github.com/Tableauexpert/A-Mart/blob/main/Exploratory_Data_Analysis_A_Mart.ipynb) used for conducting this anlaysis.
 
 To view the Tableau Dashboard - [Click Here](https://public.tableau.com/app/profile/mansi.vermani1783/viz/E-Kart_Customer_Metric_16992262969920/CustomerMetricOverview)
-Note: This is only first iteration of the dashboard.
+Note: This is only the first iteration of the dashboard.
 
 ## 5. Findings and Insights
 
@@ -65,9 +64,11 @@ Following observations are made from the above analysis:
 
 1. only 18 % customers are active i.e who have made purchase in the last 14 days
 2. 53% cutomers are inactive i.e. who have not made any purchase in last 56 days or more
-3. Avg value of an order is USD 136
-4. 55 % of revenue comes from customers that belong to medium order bucket, 40 % revenue comes from low order bucket customers
-5. A major chunk of customers have made purchases in a gap of 56 + days.
+3. Avg value of an order is USD 136. 75% of the orders have order value less than USD 160.
+4. 55 % of revenue comes from customers that belong to medium order bucket, 40 % revenue comes from low order bucket customers 
+5. Less than 50% of the customer have purchase frequency less than 60-days(2 months)
+6. Majority customers are b/w the age 15-30. 38.14% Revenue is generated from customer whose age category is between 20-29
+
    
 The company must target only these two segments of customers (medium and low order bucket) 
 It should also target inactive customers.
