@@ -71,5 +71,5 @@ Following observations are made from the above analysis:
 
    
 The company must target only these two segments of customers (medium and low order bucket) 
-It should also target inactive customers.
+It should also target inactive customers by offering them personalised offers in regular intervals.
 
